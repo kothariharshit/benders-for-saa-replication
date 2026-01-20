@@ -1,0 +1,9 @@
+instances-cmnd/r02.1.dow
+instances-cmnd/r02.2.dow
+instances-cmnd/r02.3.dow
+instances-cmnd/r03.1.dow
+instances-cmnd/r03.2.dow
+instances-cmnd/r03.3.dow
+instances-cmnd/r04.1.dow
+instances-cmnd/r04.8.dow
+instances-cmnd/r04.9.dow

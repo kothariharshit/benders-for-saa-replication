@@ -1,0 +1,9 @@
+instances-cmnd/r06.1.dow
+instances-cmnd/r06.2.dow
+instances-cmnd/r06.7.dow
+instances-cmnd/r09.1.dow
+instances-cmnd/r09.2.dow
+instances-cmnd/r09.7.dow
+instances-cmnd/r10.1.dow
+instances-cmnd/r10.2.dow
+instances-cmnd/r10.7.dow
